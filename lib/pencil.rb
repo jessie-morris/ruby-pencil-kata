@@ -4,5 +4,6 @@ class Pencil
     paper = text
     paper = paper
     paper
+    #some junk
   end 
 end
