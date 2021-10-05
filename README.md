@@ -4,4 +4,3 @@
 `bundle install`
 `bundle exec rspec`
 
-#Final junk
